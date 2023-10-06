@@ -2,7 +2,7 @@
 
 GUI-tkinter-Python 🧮 🐍
 
-<img src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-1.jpg?token=GHSAT0AAAAAACIDNRHLXH5S6VD4GCBNS6TKZJARFIQ" data-canonical-src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-1.jpg?token=GHSAT0AAAAAACIDNRHLXH5S6VD4GCBNS6TKZJARFIQ" width="500" height="250"/>     <img src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-2.jpg?token=GHSAT0AAAAAACIDNRHKNSE7UYPFRZNJHDLSZJARCNA" data-canonical-src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-2.jpg?token=GHSAT0AAAAAACIDNRHKNSE7UYPFRZNJHDLSZJARCNA" width="500" height="250"/> 
+<img src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-1.jpg?token=GHSAT0AAAAAACIDNRHLXH5S6VD4GCBNS6TKZJARFIQ" data-canonical-src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-1.jpg?token=GHSAT0AAAAAACIDNRHLXH5S6VD4GCBNS6TKZJARFIQ" width="500" height="250"/>        <img src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-2.jpg?token=GHSAT0AAAAAACIDNRHKNLCMSV73Q43B2KYEZJARLTQ" data-canonical-src="https://raw.githubusercontent.com/mj-awad17/Calculator-using-tkinter-Python/main/cal-2.jpg?token=GHSAT0AAAAAACIDNRHKNLCMSV73Q43B2KYEZJARLTQ" width="500" height="250"/> 
 
 # **Things You Must Know**
 
